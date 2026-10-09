@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+*.db
+ml_models/
+uploads/*
+!uploads/.gitkeep
+.idea/
+.vscode/
+.git/
+pytest.ini
+tests
